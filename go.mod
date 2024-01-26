@@ -1,4 +1,4 @@
-module github.com/YankinA/go
+module github.com/YankinA/go/v2
 
 go 1.21.6
 
